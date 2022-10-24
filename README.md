@@ -1,3 +1,3 @@
-# Obi-Wan-Kenobis-Math
+# Obi-Juan-Kenobis-Math
 
-# This is Obi Wan's Star Wars' Math Problem & Solution Website
+# This is Obi Juan's de Star Wars' Math Problem & Solution Website
